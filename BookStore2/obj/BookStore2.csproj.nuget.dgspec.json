@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Amr\\OneDrive\\Desktop\\BookStore2\\BookStore2\\BookStore2.csproj": {}
+    "C:\\Users\\Amr\\OneDrive\\Desktop\\book store system\\bookstore-system\\BookStore2\\BookStore2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Amr\\OneDrive\\Desktop\\BookStore2\\BookStore2\\BookStore2.csproj": {
+    "C:\\Users\\Amr\\OneDrive\\Desktop\\book store system\\bookstore-system\\BookStore2\\BookStore2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Amr\\OneDrive\\Desktop\\BookStore2\\BookStore2\\BookStore2.csproj",
+        "projectUniqueName": "C:\\Users\\Amr\\OneDrive\\Desktop\\book store system\\bookstore-system\\BookStore2\\BookStore2.csproj",
         "projectName": "BookStore2",
-        "projectPath": "C:\\Users\\Amr\\OneDrive\\Desktop\\BookStore2\\BookStore2\\BookStore2.csproj",
+        "projectPath": "C:\\Users\\Amr\\OneDrive\\Desktop\\book store system\\bookstore-system\\BookStore2\\BookStore2.csproj",
         "packagesPath": "C:\\Users\\Amr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Amr\\OneDrive\\Desktop\\BookStore2\\BookStore2\\obj\\",
+        "outputPath": "C:\\Users\\Amr\\OneDrive\\Desktop\\book store system\\bookstore-system\\BookStore2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Amr\\AppData\\Roaming\\NuGet\\NuGet.Config",

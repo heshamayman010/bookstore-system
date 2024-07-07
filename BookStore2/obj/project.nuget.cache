@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3UCyDeWsISF2w0tO4qA14yCH5/0sUfpTQuoXOJqtQv5+DIp4btZmj7dNr+3fsKfV1xbhT95E2YvUhrp3JuHzcg==",
+  "dgSpecHash": "kGD+rV20YLBFC9ktc1ffBYZP9HGJHr4Dcx6BiW/9B4TU6ojS6x96VLpo9ZS5xUO0MSkbzA7SlwovN6VHImNUUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Amr\\OneDrive\\Desktop\\BookStore2\\BookStore2\\BookStore2.csproj",
+  "projectFilePath": "C:\\Users\\Amr\\OneDrive\\Desktop\\book store system\\bookstore-system\\BookStore2\\BookStore2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amr\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Amr\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
